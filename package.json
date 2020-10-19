@@ -1,5 +1,5 @@
 {
-  "name": "@bdougie/theweeknum",
+  "name": "@malawrim",
   "version": "0.1.0",
   "description": "a package that tells you the week number",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bdougie/theWeekNum.git"
+    "url": "git+https://github.com/malawrim/malawrim-ci"
   },
-  "author": "bdougie",
+  "author": "malawrim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bdougie/theWeekNum/issues"
+    "url": "https://github.com/malawrim/malawrim-ci/issues"
   },
-  "homepage": "https://github.com/bdougie/theWeekNum#readme",
+  "homepage": "https://github.com/malawrim/malawrim-ci#readme",
   "devDependencies": {
     "jest": "^24.8.0"
   },
